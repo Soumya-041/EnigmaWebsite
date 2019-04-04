@@ -1,4 +1,4 @@
-Welcome to the EnigmaWebsite wiki!
+Welcome to the EnigmaWebsite wiki!.
 
 This page has everything to help you get started with EnigmaWebsite development.
 
